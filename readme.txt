@@ -1,1 +1,1 @@
-readme
+First game is GuessMyNumber
