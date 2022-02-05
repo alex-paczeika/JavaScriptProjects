@@ -1,0 +1,122 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.8)),url(https://c.tenor.com/Zys9j53G_lcAAAAC/gif-wallpaper.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+.logo
+{
+    width: 15px;
+    margin-top: 18px;
+    
+}
+.header
+{
+    height: 10%;
+    
+}
+
+.playNow
+{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float: left;
+    margin-top: 15px;
+    color: #fff !important;
+    background: #107afd;
+    font-weight: 600;
+    
+    /* align-items: left */
+    ;
+}
+
+.movie-details
+{
+    margin: 3% 0;
+}
+.left-box
+{
+    color: white;
+    margin: 15px 0;
+    padding: 20px ;
+
+}
+.myapps
+{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float: left;
+    margin-top: -50px;
+    color: #fff !important;
+    background: #020d1a;
+    font-weight: 600;
+}
+.casting img{
+    height: 40px;
+    
+    /* margin-left:80px;  */
+    /* weight: 40px; */
+    /* margin-right: 10px; */
+    cursor: pointer;
+    
+}
+.text-center
+{
+   
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      
+}
+.left-box a
+{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 10px;
+    /* margin-top: 35px; */
+    color: #fff !important;
+    background: #107afd;
+    font-weight: 600;
+    display: inline-block;
+    /* margin-right: 10px;; */
+}
+.download-btn
+{
+    border: 1px solid #fff !important;
+    background: transparent !important;
+}
+.movie-img
+{
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: -150px;
+    height: 350px;
+    box-shadow: -8px 4px 5px 0 #000;
+   
+}
+.series h3
+{
+    color: #fff;
+}
+.series img
+{
+    height: 250px;
+/* width: 100%; */
+/* margin-top: 15px; */
+box-shadow: -4px 4px 5px 0 #000;
+cursor: pointer;
+transition: 1s;;
+
+}
+.series img:hover{
+    transform:  translateY(-10px);
+}
